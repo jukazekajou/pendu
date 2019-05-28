@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556730831 source:c:\users\hieronimus\desktop\programmes c\pendu v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"main.h"
+	"fonctions.h"
+
+1556554187 c:\users\hieronimus\desktop\programmes c\pendu v1\main.h
+
+1556554365 c:\users\hieronimus\desktop\programmes c\pendu v1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+
+1556730806 source:c:\users\hieronimus\desktop\programmes c\pendu v1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"fonctions.h"
+	<math.h>
+
+1556728219 c:\users\hieronimus\desktop\programmes c\pendu v1\fonctions.h
+	"fonctions.h"
+	"main.h"
+
